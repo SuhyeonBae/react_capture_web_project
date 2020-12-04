@@ -6,7 +6,7 @@ const GlobalStyle = createGlobalStyle`
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  font-family: 'Ubuntu', sans-serif;
+  font-family: 'Maven Pro', sans-serif;
 }
 
 body {
@@ -37,6 +37,7 @@ h3{
 }
 h4{
   font-weight: bold;
+  font-size: 2rem;
 }
 a{
   font-size: 1.1rem;
